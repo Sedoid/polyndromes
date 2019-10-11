@@ -4,7 +4,7 @@ let str = "aabcdcb";
 
 let x = str.length;
 x+=1;
-for(let j=0 ;j<7; j++)
+for(let j=0 ;j<str.length; j++)
    
    for(let i=j;i<x;i++){
 
